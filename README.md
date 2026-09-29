@@ -13,7 +13,7 @@
 - 🤖 Currently working on **Joni AI**, an AI-powered web platform
 - 🔗 Experienced with **Web3 wallet integrations**, **payments**, and **social login**
 - 🌱 Always learning and improving how products look, feel, and perform
-- 📫 Reach me at: **your-email@example.com**
+- 📫 Reach me at: **hammadanwar6520@gmail.com**
 
 ---
 
